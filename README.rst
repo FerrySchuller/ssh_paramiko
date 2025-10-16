@@ -108,7 +108,7 @@ ssh_paramiko is compatible with Python 2.6+
 Documentation
 -------------
 
-https://ssh_paramiko.readthedocs.io
+https://ssh-paramiko.readthedocs.io
 
 Source Code
 -----------
